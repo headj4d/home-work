@@ -104,8 +104,14 @@ header {
    margin: 140px 0 272px 0;
   text-align: center;
 }
-.contact ul>li:nth-child(2) {
-  padding-left: 20px;
+
+.contact h1 {
+  font-family: 'BPG Nino Mtavruli Bold'
+}
+
+.contact ul>li {
+  padding: 5px 0 0 20px;
+  font-family: 'BPG Ingiri Arial';
 }
 
 .text-center {

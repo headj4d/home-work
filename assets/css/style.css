@@ -47,7 +47,7 @@ header {
   margin-left: 30px;
 }
 /* hero end */
-
+/* news start */
 .news span {
   display: block;
   width: 52px;
@@ -97,6 +97,7 @@ header {
   margin-bottom: 51px;
   display: inline-block;
 }
+/* New End */
 
 /* Contact start */
 .contact {
